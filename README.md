@@ -3,7 +3,7 @@
 Matlab pakages to do the sagdeev psudoptential analysis of the plasma models
 
 
-<mark> The project just started. So, I will be modifying the codes heavily in the future (very slowly :) ). Keep looking for the updates. If you have any suggestions feel free to contact. 
+<mark> Recently I started uploding files in the project. I will be modifying the codes heavily in the future (very slowly :) ). Keep looking for the updates. If you have any suggestions feel free to contact. 
 </mark>
 
 E-mail: [ablotekar@gmail.com](mailto:ablotekar@gmail.com)
